@@ -1,0 +1,80 @@
+.c01 {
+    margin-top: 45px;
+    margin-bottom: 150px;
+}
+
+.title01 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffc107;
+}
+
+.subtitle01 {
+    font-size: 18px;
+    font-weight: normal;
+    color: #666666;
+}
+
+.icon01 {
+    width: 26px;
+    height: 24px;
+}
+.iconlabel01 {
+    font-size: 14px;
+    color: #333333;
+    font-weight: normal;
+}
+
+.text01 {
+    font-size: 14px;
+    color: #333333;
+    line-height: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box01 {
+    box-shadow: 5px 5px 30px #999999;
+    border-radius: 5px;
+}
+
+.price {
+    font-size: 24px;
+    font-weight: normal;
+}
+.pricelabel {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+footer {
+    background-color: #ffc107;
+    height: 70px;
+    width: 100%;
+}
+
+.social {
+    margin: 5px;
+}
+
+.service {
+    margin-top: 10px;
+}
+
+.title02 {
+    font-size: 24px;
+    font-weight: normal;
+    color: #333333;
+    margin-top: 30px;
+}
+
+hr {
+    margin: 0;
+    width: 98%;
+    height: 1px;
+    background-color: #949494;
+}
+
+.serviceicon {
+    margin-right: 5px;
+}
